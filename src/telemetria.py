@@ -11,9 +11,9 @@ def coletar():
     """
 
     return {
-        "sensor_termico": round(random.uniform(20, 120), 2),
-        "sensor_optico": round(random.uniform(70, 100), 2),
+        "energia": round(random.uniform(10, 100), 2),
+        "temperatura": round(random.uniform(20, 100), 2),
         "buffer_imagens": random.randint(0, 100),
-        "precisao_geolocalizacao": round(random.uniform(0.5, 10.0), 2),
-        "energia_disponivel": round(random.uniform(10, 100), 2)
+        "precisao_gps": round(random.uniform(0.5, 10.0), 2),
+        "sensor_termico": round(random.uniform(40, 100), 2)
     }
