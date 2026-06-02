@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-* Gabriel Guimarães de Oliveira — RM: SEU_RM
-* Pedro Paulo Ferreira Agnelo D'angelo — RM: RM_DO_PEDRO
-* Nicolas Henriques Fernandes — RM: RM_DO_NICOLAS
+* Gabriel Guimarães de Oliveira — RM: 567835
+* Pedro Paulo Ferreira Agnelo D'angelo — RM: 567564
+* Nicolas Henriques Fernandes — RM: 567123
 
 Modalidade: Trio
 
