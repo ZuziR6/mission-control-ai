@@ -110,14 +110,6 @@ Detecção de degradação na precisão da missão.
 
 ---
 
-# Demonstração
-
-![Banner do sistema](assets/screenshot_banner.png)
-
-![Análise da IA](assets/screenshot_analise.png)
-
----
-
 # System Prompt
 
 O system prompt completo está disponível em:
