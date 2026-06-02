@@ -51,7 +51,7 @@ EnviroSat — Observação Ambiental
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone (https://github.com/ZuziR6/mission-control-ai)
 ```
 
 ### 2. Instalar dependências
