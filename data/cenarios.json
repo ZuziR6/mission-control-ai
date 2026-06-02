@@ -1,1 +1,41 @@
+{
+  "operacao_normal": {
+    "sensor_termico": 90,
+    "sensor_optico": 95,
+    "buffer_imagens": 30,
+    "precisao_geolocalizacao": 1.2,
+    "energia_disponivel": 80
+  },
 
+  "energia_critica": {
+    "sensor_termico": 90,
+    "sensor_optico": 95,
+    "buffer_imagens": 30,
+    "precisao_geolocalizacao": 1.2,
+    "energia_disponivel": 15
+  },
+
+  "temperatura_critica": {
+    "sensor_termico": 50,
+    "sensor_optico": 95,
+    "buffer_imagens": 30,
+    "precisao_geolocalizacao": 1.2,
+    "energia_disponivel": 80
+  },
+
+  "buffer_elevado": {
+    "sensor_termico": 90,
+    "sensor_optico": 95,
+    "buffer_imagens": 95,
+    "precisao_geolocalizacao": 1.2,
+    "energia_disponivel": 80
+  },
+
+  "falha_geolocalizacao": {
+    "sensor_termico": 90,
+    "sensor_optico": 95,
+    "buffer_imagens": 30,
+    "precisao_geolocalizacao": 8,
+    "energia_disponivel": 80
+  }
+}
